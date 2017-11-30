@@ -1,0 +1,100 @@
+c:\users\matheus\documents\visual studio 2015\Projects\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.exe.config
+c:\users\matheus\documents\visual studio 2015\Projects\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.exe
+c:\users\matheus\documents\visual studio 2015\Projects\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.pdb
+c:\users\matheus\documents\visual studio 2015\Projects\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.csprojResolveAssemblyReference.cache
+c:\users\matheus\documents\visual studio 2015\Projects\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form1.resources
+c:\users\matheus\documents\visual studio 2015\Projects\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Properties.Resources.resources
+c:\users\matheus\documents\visual studio 2015\Projects\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.csproj.GenerateResource.Cache
+c:\users\matheus\documents\visual studio 2015\Projects\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.exe
+c:\users\matheus\documents\visual studio 2015\Projects\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.pdb
+C:\Users\Matheus\documents\visual studio 2015\Projects\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form2.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.exe.config
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.exe
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.pdb
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.exe
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.pdb
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.csprojResolveAssemblyReference.cache
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form1.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form2.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Properties.Resources.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.csproj.GenerateResource.Cache
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.exe.config
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.exe
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.pdb
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.exe
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.pdb
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.csprojResolveAssemblyReference.cache
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form1.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form2.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Properties.Resources.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Strip.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.csproj.GenerateResource.Cache
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Newtonsoft.Json.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Net.Http.Formatting.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.WebHost.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Newtonsoft.Json.xml
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Net.Http.Formatting.xml
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.xml
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.WebHost.xml
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\pt\Microsoft.SqlServer.Management.CollectorEnum.resources.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\pt\Microsoft.SqlServer.ConnectionInfo.resources.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form3.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form4.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Newtonsoft.Json.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Net.Http.Formatting.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.WebHost.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Newtonsoft.Json.xml
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Net.Http.Formatting.xml
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.xml
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.WebHost.xml
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\pt\Microsoft.SqlServer.Management.CollectorEnum.resources.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\pt\Microsoft.SqlServer.ConnectionInfo.resources.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form3.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form4.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Strip.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form5.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form6.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form5.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form6.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.exe.config
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.exe
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.pdb
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.exe
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\ProjetoFazenda.pdb
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Net.Http.Formatting.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.WebHost.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.xml
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\System.Web.Http.WebHost.xml
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\pt\Microsoft.SqlServer.Management.CollectorEnum.resources.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\bin\Debug\pt\Microsoft.SqlServer.ConnectionInfo.resources.dll
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form1.resources
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form2.resources
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form3.resources
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form4.resources
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form5.resources
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Form6.resources
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Properties.Resources.resources
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.Strip.resources
+\\Mac\Home\Desktop\ProjetoFazenda\ProjetoFazenda\obj\Debug\ProjetoFazenda.csproj.GenerateResource.Cache
